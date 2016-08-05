@@ -1,0 +1,15 @@
+C:\Users\wilma\Desktop\Chapter6\Commission\Commission\bin\Debug\Commission.exe.config
+C:\Users\wilma\Desktop\Chapter6\Commission\Commission\bin\Debug\Commission.exe
+C:\Users\wilma\Desktop\Chapter6\Commission\Commission\bin\Debug\Commission.pdb
+C:\Users\wilma\Desktop\Chapter6\Commission\Commission\obj\Debug\Commission.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Chapter6\Commission\Commission\obj\Debug\Commission.exe
+C:\Users\wilma\Desktop\Chapter6\Commission\Commission\obj\Debug\Commission.pdb
+C:\Users\wilma\Desktop\Assignment 2\Chapter6\Commission\Commission\bin\Debug\Commission.exe.config
+C:\Users\wilma\Desktop\Assignment 2\Chapter6\Commission\Commission\obj\Debug\Commission.exe
+C:\Users\wilma\Desktop\Assignment 2\Chapter6\Commission\Commission\obj\Debug\Commission.pdb
+C:\Users\wilma\Desktop\Assignment 2\Chapter6\Commission\Commission\bin\Debug\Commission.exe
+C:\Users\wilma\Desktop\Assignment 2\Chapter6\Commission\Commission\bin\Debug\Commission.pdb
+C:\Users\wilma\Desktop\Assignment 2\Chapter6\Commission\Commission\obj\Debug\Commission.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\ENTD463 B001 Win 16\week2\Assignment 2\Chapter6\Commission\Commission\bin\Debug\Commission.exe.config
+C:\Users\wilma\Desktop\ENTD463 B001 Win 16\week2\Assignment 2\Chapter6\Commission\Commission\obj\Debug\Commission.exe
+C:\Users\wilma\Desktop\ENTD463 B001 Win 16\week2\Assignment 2\Chapter6\Commission\Commission\obj\Debug\Commission.pdb
