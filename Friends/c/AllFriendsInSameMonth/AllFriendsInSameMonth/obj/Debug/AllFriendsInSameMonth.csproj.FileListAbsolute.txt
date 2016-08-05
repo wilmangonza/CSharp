@@ -1,0 +1,12 @@
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\a\AllFriendsInSameMonth\AllFriendsInSameMonth\bin\Debug\AllFriendsInSameMonth.exe.config
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\a\AllFriendsInSameMonth\AllFriendsInSameMonth\bin\Debug\AllFriendsInSameMonth.exe
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\a\AllFriendsInSameMonth\AllFriendsInSameMonth\bin\Debug\AllFriendsInSameMonth.pdb
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\a\AllFriendsInSameMonth\AllFriendsInSameMonth\obj\Debug\AllFriendsInSameMonth.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\a\AllFriendsInSameMonth\AllFriendsInSameMonth\obj\Debug\AllFriendsInSameMonth.exe
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\a\AllFriendsInSameMonth\AllFriendsInSameMonth\obj\Debug\AllFriendsInSameMonth.pdb
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\c\AllFriendsInSameMonth\AllFriendsInSameMonth\bin\Debug\AllFriendsInSameMonth.exe.config
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\c\AllFriendsInSameMonth\AllFriendsInSameMonth\obj\Debug\AllFriendsInSameMonth.exe
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\c\AllFriendsInSameMonth\AllFriendsInSameMonth\obj\Debug\AllFriendsInSameMonth.pdb
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\c\AllFriendsInSameMonth\AllFriendsInSameMonth\bin\Debug\AllFriendsInSameMonth.exe
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\c\AllFriendsInSameMonth\AllFriendsInSameMonth\bin\Debug\AllFriendsInSameMonth.pdb
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\c\AllFriendsInSameMonth\AllFriendsInSameMonth\obj\Debug\AllFriendsInSameMonth.csprojResolveAssemblyReference.cache

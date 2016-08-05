@@ -1,0 +1,6 @@
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\b\FriendBirthday\FriendBirthday\bin\Debug\FriendBirthday.exe.config
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\b\FriendBirthday\FriendBirthday\bin\Debug\FriendBirthday.exe
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\b\FriendBirthday\FriendBirthday\bin\Debug\FriendBirthday.pdb
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\b\FriendBirthday\FriendBirthday\obj\Debug\FriendBirthday.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\b\FriendBirthday\FriendBirthday\obj\Debug\FriendBirthday.exe
+C:\Users\wilma\Desktop\Chapter 9\Exercise 9\b\FriendBirthday\FriendBirthday\obj\Debug\FriendBirthday.pdb
