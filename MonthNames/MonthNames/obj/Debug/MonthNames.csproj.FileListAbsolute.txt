@@ -1,0 +1,18 @@
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\bin\Debug\MonthNames.exe.config
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\bin\Debug\MonthNames.exe
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\bin\Debug\MonthNames.pdb
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.Form1.resources
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.Properties.Resources.resources
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.csproj.GenerateResource.Cache
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.exe
+C:\Users\wilma\Desktop\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\bin\Debug\MonthNames.exe.config
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\bin\Debug\MonthNames.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\bin\Debug\MonthNames.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.csprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.Form1.resources
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.Properties.Resources.resources
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise15\MonthNames\MonthNames\obj\Debug\MonthNames.csproj.GenerateResource.Cache
