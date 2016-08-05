@@ -1,0 +1,6 @@
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\bin\Release\OrderReceipt.exe.config
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\bin\Release\OrderReceipt.exe
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\bin\Release\OrderReceipt.pdb
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\obj\Release\OrderReceipt.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\obj\Release\OrderReceipt.exe
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\obj\Release\OrderReceipt.pdb

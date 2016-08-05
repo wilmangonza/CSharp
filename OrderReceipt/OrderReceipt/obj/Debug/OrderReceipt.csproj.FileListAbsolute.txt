@@ -1,0 +1,12 @@
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe.config
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.pdb
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\obj\Debug\OrderReceipt.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\obj\Debug\OrderReceipt.exe
+C:\Users\wilma\Desktop\Exercise14\OrderReceipt\OrderReceipt\obj\Debug\OrderReceipt.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise14\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe.config
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise14\OrderReceipt\OrderReceipt\obj\Debug\OrderReceipt.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise14\OrderReceipt\OrderReceipt\obj\Debug\OrderReceipt.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise14\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise14\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise14\OrderReceipt\OrderReceipt\obj\Debug\OrderReceipt.csprojResolveAssemblyReference.cache
