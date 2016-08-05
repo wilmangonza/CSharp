@@ -1,0 +1,18 @@
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\bin\Debug\Animated.exe.config
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\bin\Debug\Animated.exe
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\bin\Debug\Animated.pdb
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.Form1.resources
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.Properties.Resources.resources
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.csproj.GenerateResource.Cache
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.exe
+C:\Users\wilma\Desktop\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\bin\Debug\Animated.exe.config
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.exe
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\bin\Debug\Animated.exe
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\bin\Debug\Animated.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.csprojResolveAssemblyReference.cache
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.Form1.resources
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.Properties.Resources.resources
+D:\Desktop\School\ENTD463 B001 Win 16\Assignment 8 Final Project\Exercise 4\Animated\Animated\obj\Debug\Animated.csproj.GenerateResource.Cache
