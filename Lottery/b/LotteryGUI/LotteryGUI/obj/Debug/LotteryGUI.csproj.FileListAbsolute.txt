@@ -1,0 +1,21 @@
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.exe.config
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.exe
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.pdb
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.Form1.resources
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.Properties.Resources.resources
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.csproj.GenerateResource.Cache
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.exe
+C:\Users\wilma\Desktop\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.pdb
+C:\Users\wilma\Desktop\Chapter 4\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.exe.config
+C:\Users\wilma\Desktop\Chapter 4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.exe
+C:\Users\wilma\Desktop\Chapter 4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.pdb
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.exe.config
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.exe
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.pdb
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.exe
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\bin\Debug\LotteryGUI.pdb
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.Form1.resources
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.Properties.Resources.resources
+C:\Users\wilma\Desktop\Chapter4\Exercise 9\b\LotteryGUI\LotteryGUI\obj\Debug\LotteryGUI.csproj.GenerateResource.Cache
