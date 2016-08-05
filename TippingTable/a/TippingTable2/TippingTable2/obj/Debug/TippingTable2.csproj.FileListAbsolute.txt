@@ -1,0 +1,12 @@
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\bin\Debug\TippingTable2.exe.config
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\bin\Debug\TippingTable2.exe
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\bin\Debug\TippingTable2.pdb
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\obj\Debug\TippingTable2.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\obj\Debug\TippingTable2.exe
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\obj\Debug\TippingTable2.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week2\Assignment 2\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\bin\Debug\TippingTable2.exe.config
+D:\Desktop\School\ENTD463 B001 Win 16\week2\Assignment 2\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\obj\Debug\TippingTable2.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week2\Assignment 2\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\obj\Debug\TippingTable2.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week2\Assignment 2\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\bin\Debug\TippingTable2.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week2\Assignment 2\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\bin\Debug\TippingTable2.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week2\Assignment 2\Chapter5\Exercise 10\a\TippingTable2\TippingTable2\obj\Debug\TippingTable2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\bin\Debug\TippingTable2GUI.exe.config
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\bin\Debug\TippingTable2GUI.exe
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\bin\Debug\TippingTable2GUI.pdb
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\obj\Debug\TippingTable2GUI.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\obj\Debug\TippingTable2GUI.Form1.resources
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\obj\Debug\TippingTable2GUI.Properties.Resources.resources
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\obj\Debug\TippingTable2GUI.csproj.GenerateResource.Cache
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\obj\Debug\TippingTable2GUI.exe
+C:\Users\wilma\Desktop\Chapter5\Exercise 10\b\TippingTable2GUI\TippingTable2GUI\obj\Debug\TippingTable2GUI.pdb
