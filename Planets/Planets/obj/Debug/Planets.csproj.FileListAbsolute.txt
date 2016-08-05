@@ -1,0 +1,12 @@
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\bin\Debug\Planets.exe.config
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\bin\Debug\Planets.exe
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\bin\Debug\Planets.pdb
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\obj\Debug\Planets.csprojResolveAssemblyReference.cache
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\obj\Debug\Planets.Form1.resources
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\obj\Debug\Planets.Properties.Resources.resources
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\obj\Debug\Planets.csproj.GenerateResource.Cache
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\obj\Debug\Planets.exe
+C:\Users\wilma\Desktop\Exercise16\Planets\Planets\obj\Debug\Planets.pdb
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise16\Planets\Planets\bin\Debug\Planets.exe.config
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise16\Planets\Planets\obj\Debug\Planets.exe
+D:\Desktop\School\ENTD463 B001 Win 16\week1\Assignment 1\Exercise16\Planets\Planets\obj\Debug\Planets.pdb
